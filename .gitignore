@@ -1,0 +1,9 @@
+# Hide some basic OS files
+Thumbs.db
+.DS_Store
+
+# Hide the vagrant files
+.vagrant
+
+# Hide the buildstrap shell script
+buildstrap.sh
